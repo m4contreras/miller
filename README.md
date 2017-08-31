@@ -1,4 +1,2 @@
-miller
-======
-
-A Symfony project created on August 31, 2017, 12:23 pm.
+# miller
+Repositorio de prueba para desarrollar con Symfony2
